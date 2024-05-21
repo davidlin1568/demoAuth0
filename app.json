@@ -33,6 +33,11 @@
           "domain": "dev-sbje3st8xgnr25jt.au.auth0.com"
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "7fcb7692-a8dd-4678-8efe-0d578de1b1b0"
+      }
+    }
   }
 }
